@@ -1,0 +1,157 @@
+body {
+  background-color: #F7E9D7;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #99A799;
+  font-family: 'Nunito', sans-serif;
+  font-size: 5.00rem;
+  font-weight: 400;
+  line-height: 2;
+  margin: 30px auto 0 auto;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #99A799;
+}
+
+h3 {
+  color: #ADC2A9;
+}
+
+a {
+  color: #ADC2A9;
+}
+
+p {
+  line-height: 2;
+  color: #0F3D3E;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-width: 7px;
+  border-color: #0F3D3E;
+  width: 4.5%;
+  margin: 100px auto;
+}
+
+.top-container {
+  background-color: #FFF6EA;
+  position: relative;
+  padding: 100px;
+}
+
+.profile-pic {
+  margin: 50px auto 30px auto;
+  width: 500px;
+}
+
+.middle-container {
+
+}
+
+.logo {
+    margin: 70px auto 30px auto;
+}
+
+.middle-p {
+  width: 30%;
+  margin: auto;
+}
+
+.titles {
+  margin-top: 80px;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: right;
+  line-height: 2;
+}
+
+.skill-row2 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.flowers1-img {
+  float: left;
+  width: 400px;
+}
+
+.flowers2-img {
+  float: right;
+  width: 400px;
+}
+
+.contact-me {
+
+}
+
+.bottom-p {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.bottom-container {
+  background-color: #EBD8C3;
+  padding: 20px 100px;
+  margin-top: 80px;
+}
+
+.btn {
+  background: #F6D7A7;
+  background-image: -webkit-linear-gradient(top, #F6D7A7, #F1A661);
+  background-image: -moz-linear-gradient(top, #F6D7A7, #F1A661);
+  background-image: -ms-linear-gradient(top, #F6D7A7, #F1A661);
+  background-image: -o-linear-gradient(top, #F6D7A7, #F1A661);
+  background-image: linear-gradient(to bottom, #F6D7A7, #F1A661);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  -webkit-box-shadow: 0 1px 3px #F6D7A7;
+  -moz-box-shadow: 0 1px 3px #F6D7A7;
+  box-shadow: 0 1px 3px #F6D7A7;
+  font-family: 'Merriweather', Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #F1A661;
+  background-image: -webkit-linear-gradient(top, #F1A661, #F6D7A7);
+  background-image: -moz-linear-gradient(top, #F1A661, #F6D7A7);
+  background-image: -ms-linear-gradient(top, #F1A661, #F6D7A7);
+  background-image: -o-linear-gradient(top, #F1A661, #F6D7A7);
+  background-image: linear-gradient(to bottom, #F1A661, #F6D7A7);
+  text-decoration: none;
+}
+
+.footer-link {
+  margin: 20px;
+  text-decoration: none;
+  top: 20px;
+}
+ .footer-link:hover{
+  color: #0F3D3E;
+ }
+
+.trademark {
+  font-size: .75rem;
+  color: #FDEEDC;
+  position: relative;
+  margin: 20px auto 10px auto;
+  top: 20px;
+}
